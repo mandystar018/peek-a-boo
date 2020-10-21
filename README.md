@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _Walrus_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _October 20, 2020_
 
 #### By _**Amanda Otero**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_You can click at the link and it will show a picture of a walrus, this app was created with jQuery library_
 
 ## Setup/Installation Requirements
 
@@ -16,11 +16,9 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * _To view the project open index HTML on you favorite browser_
 * _To edit open you favorite text editor_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
-
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_If you try to play with other event handling with jQuery library in the #walrus-hide the picture won't go again or hide._
 
 ## Support and contact details
 
